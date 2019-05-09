@@ -1,2 +1,4 @@
 This project was bootstrapped with Create React App.
-This application is the popular game tic-toc-toe using reactjs-css-html
+
+These codes belongs to the popular game tic-toc-toe
+
